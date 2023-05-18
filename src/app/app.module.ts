@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FormUsuarioComponent } from './components/form-usuario/form-usuario.component';
+import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FormUsuarioComponent
+    FormUsuarioComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

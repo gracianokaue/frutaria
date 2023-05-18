@@ -1,0 +1,25 @@
+.containerHeader{
+    height: 400px;
+    background-color: #E5E5E5;
+    
+}
+
+.toolBar{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.barIcons{
+    width: 30%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+

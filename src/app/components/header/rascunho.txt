@@ -1,0 +1,33 @@
+<div class="containerHeader">
+    <header>
+        <nav>
+            <div class="toolBar">
+                <div class="menu">
+                    <div class="menuIcon">
+                        <img src="../assets/img/menu.png">
+                    </div>
+                </div>
+                <div class="searchBar">
+                    <div class="searchBox">
+                        <!--<input type="text" /> Verificar depois!!! -->
+                    </div>
+                    
+                    <div class="searchImg">
+                        <div class="searchIcon">
+                            <img src="../assets/img/search.png" />
+                        </div>
+                    </div>
+                </div>
+                <div class="infoIcons">
+                    <div class="accountIcon">
+                        <img src="../assets/img/user.png" />
+                    </div>
+
+                    <div class="cartIcon">
+                        <img src="../assets/img/cart.png" />
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+</div>
